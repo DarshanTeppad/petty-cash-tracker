@@ -3,7 +3,7 @@ from openpyxl import Workbook
 
 # --- Firebase Configuration ---
 firebaseConfig = {
-    "apiKey": "AIzaSyAWTW8hg3iy8NjyxoFqKQ0lhtcvPzz-XWQ",
+    "apiKey": "AIzaSyAWTW8hg3iy8NjyxoFqKQ0lhtdummy-xyz",
     "authDomain": "petty-cash-b66cb.firebaseapp.com",
     "databaseURL": "https://petty-cash-b66cb-default-rtdb.firebaseio.com",
     "projectId": "petty-cash-b66cb",
